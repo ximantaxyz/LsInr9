@@ -1,0 +1,8 @@
+{
+  "name": "hslc-seba-2026-result",
+  "version": "1.0.0",
+  "description": "HSLC SEBA 2026 Result website with Netlify Functions",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
